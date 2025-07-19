@@ -1,0 +1,1 @@
+console.log("Hello Bishal! Welcome to our Blog websites. The script is running!");
